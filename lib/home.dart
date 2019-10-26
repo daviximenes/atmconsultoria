@@ -36,7 +36,7 @@ class _HomeState extends State<Home> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         title: Text("ATM Consultoria"),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.greenAccent,
       ),
       body: Container(
         padding: EdgeInsets.all(16),
