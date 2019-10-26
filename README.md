@@ -1,6 +1,8 @@
 # atmconsultoria
 
-A new Flutter project.
+A Flutter project made for study purposes.
+
+
 
 ## Getting Started
 
